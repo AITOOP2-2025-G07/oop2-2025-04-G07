@@ -7,7 +7,7 @@ pip install ffmpeg-python
 pip install mlx-whisper
 pip install pydub
 pip install numpy
-ffmpegがインストールsれていることが必要です。
+ffmpegがインストールされていることが必要です。
 # 実行手順 
 　code1.pyの実行して音声を録音、その後、sagyousya2.pyの実行して文字起こし、最後にsave_text.pyを実行してテキストに保存する。
 # 作成者情報
